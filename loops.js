@@ -8,7 +8,7 @@ function forLoop(array){
       array.push(`I am ${i} strange loops.`);  
     }
   }
-  //send back array
+  //Return array after adding strings.
   return array;
 }
 
